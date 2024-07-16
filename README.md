@@ -1,4 +1,4 @@
-(https://i.ibb.co/rsqM1hv/1-b21-Fyq-Ubow-HYAOQDXH0t-Dw.jpg)
+![I am Web developer](https://i.ibb.co/rsqM1hv/1-b21-Fyq-Ubow-HYAOQDXH0t-Dw.jpg)
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -12,6 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href=": https://linkedin.com/in/al-amin21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruhul7/" height="30" width="40" /></a>
+<a href="[https://fb.com/https://www.facebook.com/profile.php?id=100075508398981](https://www.facebook.com/profile.php?id=100093211171908)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100075508398981" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
