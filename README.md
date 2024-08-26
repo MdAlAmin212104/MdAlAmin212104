@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<a href="#" align='center'><img src="https://i.ibb.co/nDBwg9P/ahsan.gif" alt="ahsan" border="0" width="full"></a>
+<img  src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalamin212104&label=Profile%20views&color=0e75b6&style=flat" alt="mdalamin212104" /> </p>
 
