@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Al+Amin...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 <img  src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="full width images" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdalamin212104&label=Profile%20views&color=0e75b6&style=flat" alt="mdalamin212104" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalamin212104" alt="mdalamin212104" /></a> </p>
 
-- 🌱 I’m currently learning **react js , node js, express js , mongodb etc**
+- 🌱 I’m currently learning **react_js , node js, express js , MongoDB etc**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15lGZ4E1veXA5HiXIqkhrx5Y98Wbvpima/view?usp=sharing](https://drive.google.com/file/d/15lGZ4E1veXA5HiXIqkhrx5Y98Wbvpima/view?usp=sharing)
 
