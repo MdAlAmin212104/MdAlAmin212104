@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Shopify App Development, Prisma, Shopify Polaris, React_js , Node js, Express js , MongoDB etc**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15lGZ4E1veXA5HiXIqkhrx5Y98Wbvpima/view?usp=sharing](https://drive.google.com/file/d/15lGZ4E1veXA5HiXIqkhrx5Y98Wbvpima/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CnA-Nwj1aMwvdLdPCJuB78zT-mmc6sen/view?usp=sharing](https://drive.google.com/file/d/1CnA-Nwj1aMwvdLdPCJuB78zT-mmc6sen/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
